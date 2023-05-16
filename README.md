@@ -26,4 +26,4 @@ This submission can perform various operations such as adding books, retrieving 
 
 `server.js`: Starts the server and configures it as needed. Initializes an HTTP server with a framework such as Hapi.
 
-`routers.js`: Specifies the app's routes. This file translates HTTP methods and endpoints (GET, POST, PUT, DELETE, etc.) to the proper handler functions in `handler.js`.# bookshelf-api
+`routers.js`: Specifies the app's routes. This file translates HTTP methods and endpoints (GET, POST, PUT, DELETE, etc.) to the proper handler functions in `handler.js`.
