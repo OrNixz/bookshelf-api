@@ -2,7 +2,7 @@
 # Project Title
 
 Bookshelf API is a final submission on "Belajar Membuat Aplikasi Back-End untuk Pemula" from Dicoding course. This project built 
-by npm package manager, Hapi Framework, and Nodemon. And for testing purposes, we using Postman .
+by npm package manager, Hapi Framework, and Nodemon. And for testing purposes, we using Postman.
 
 This submission can perform various operations such as adding books, retrieving book details, updating book information, and deleting books. The submission includes two important files for testing: the "Bookshelf API Test Collection" and the "Environment" file.
 
