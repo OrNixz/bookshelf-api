@@ -1,5 +1,5 @@
 
-# Project Title
+# Bookshelf API
 
 Bookshelf API is a final submission on "Belajar Membuat Aplikasi Back-End untuk Pemula" from Dicoding course. This project built 
 by npm package manager, Hapi Framework, and Nodemon. And for testing purposes, we using Postman.
