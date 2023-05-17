@@ -15,7 +15,7 @@ This submission can perform various operations such as adding books, retrieving 
 4. Open the file and navigate to the project directory folders.
 5. Install the dependencies required by the Bookshelf API .project using this command `npm install`.
 6. You can start the API server using this command `npm run start`.
-7. By default, this program will run localhost:9000.
+7. By default, this program will run on localhost:9000.
 8. Open Postman application and click on the "Import" button and select the "Bookshelf API Test Collection" and "Environment" files that were provided with the project.
 9. Change the Environment Variables to `Bookshelf API Test`.
 10. Finally, you can `Run Bookshelf API test` to run the entire tests. However, if you reach at the limit, you can try run one by one sequentially.
